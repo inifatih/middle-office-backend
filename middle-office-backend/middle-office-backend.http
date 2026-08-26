@@ -1,0 +1,6 @@
+@middle_office_backend_HostAddress = http://localhost:5279
+
+GET {{middle_office_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

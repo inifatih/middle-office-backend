@@ -1,0 +1,32 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
